@@ -1,0 +1,14 @@
+.MuiTabs-indicator{
+    background-color: green !important
+}
+.css-h0q0iv-MuiButtonBase-root-MuiTab-root.Mui-selected, .css-9xka9i-MuiButtonBase-root-MuiTab-root.Mui-selected{
+    color: green !important
+}
+.navbar-top{
+    content: ' ';
+    width: 100%;
+    height: 3px;
+    background-image: linear-gradient(to right, #f9cf4d, #c5c852, #00b75e, #94be59);  
+    z-index: 1;
+    margin-top: 5px;
+}

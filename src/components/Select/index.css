@@ -1,0 +1,15 @@
+.select_input{
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    padding: 17px;
+    font-size: 17px;
+    background: #ffff url('../../imgs/select.png') 95.5% 55% no-repeat;
+    background-size: 10px;
+  }
+  select {
+    -webkit-appearance: none;
+    -moz-appearance:    none;
+    appearance:         none;
+    width: 100%;
+  }
+  
